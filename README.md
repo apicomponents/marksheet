@@ -74,22 +74,22 @@
 
 | city      | state   | population |
 | --------- | ------- | --------------- |
-| [Flagstaff](#table1-row-1) | Arizona | 71459 |
-| [Tempe](#table1-row-2) | Arizona | 182498    |
+| [Flagstaff](#flagstaff-table-1-row-1) | Arizona | 71459 |
+| [Tempe](#tempe-table-1-row-2) | Arizona | 182498    |
  
 <details>
   
 <summary>Additional Data</summary>
 
-#### table1: row 1
+#### Flagstaff (table 1, row 1)
 
-| row1 |  |
+| Field | Value |
 | - | - |
 | wikipedia | *Flagstaff* is a city in the U.S. state of Arizona, surrounded by mountains, desert and ponderosa pine forests. It’s a gateway to the San Francisco Peaks, home to Arizona’s tallest mountain (Humphreys Peak) and the Arizona Snowbowl ski resort. Nearby, Wupatki National Monument has Native American pueblo sites, and Walnut Canyon National Monument is dotted with their cliff dwellings. |
 
-#### table1: row 2
+#### Tempe (table 1, row 2)
 
-| row2 |  |
+| Field | Value |
 | - | - |
 | wikipedia | *Tempe* (/ˈtɛmpiː/ TEM'-pee;[4] Oidbaḍ in Pima), also known as Hayden's Ferry during the territorial times of Arizona, is a city in Maricopa County, Arizona, United States, with the Census Bureau reporting a 2016 population of 182,498.[5] The city is named after the Vale of Tempe in Greece. Tempe is located in the East Valley section of metropolitan Phoenix; it is bordered by Phoenix and Guadalupe on the west, Scottsdale on the north, Chandler on the south, and Mesa on the east. Tempe is also the location of the main campus of Arizona State University. |
 
